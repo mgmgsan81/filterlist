@@ -22,3 +22,6 @@
 @@||deliveryhero.net^
 @@||stats.g.doubleclick.net^
 @@||youtube-nocookie.com^
+@@||redirectingat.com^
+@@||qrco.de^
+@@||adztec.com^
