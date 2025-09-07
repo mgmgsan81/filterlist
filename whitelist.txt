@@ -25,3 +25,7 @@
 @@||redirectingat.com^
 @@||qrco.de^
 @@||adztec.com^
+@@||play.google.com^
+@@||classroom.google.com^
+@@||docs.google.com^
+
