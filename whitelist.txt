@@ -28,4 +28,5 @@
 @@||play.google.com^
 @@||classroom.google.com^
 @@||docs.google.com^
-@@||gl-inet.com
+@@||gl-inet.com^
+@@||myshopify.com^
